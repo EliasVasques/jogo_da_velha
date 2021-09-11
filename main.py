@@ -46,4 +46,4 @@ while True:
 
     vez_player = not vez_player
 
-print('\nObrigado por jogar o meu jog!')
+print('\nObrigado por jogar o meu jogo!')
